@@ -1,6 +1,6 @@
 cask "frypdf" do
-  version "0.1.1"
-  sha256 "0641e5c66b554fa6891c57dce72d59c850d174088c22dab82b0924907956b002"
+  version "0.1.2"
+  sha256 "70c1e2243e53f9ce3826f7e4b498bc2d0082a14f4b6ca523653d1b8d79604660"
 
   url "https://github.com/codefrydev/frypdf/releases/download/v#{version}/FryPDF-#{version}-arm64.dmg"
   name "FryPDF"
