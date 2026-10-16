@@ -1,6 +1,6 @@
 cask "frysharp" do
-  version "2.0.4"
-  sha256 "32b753b5aa1a8d81ef77718aa31dd57e264d55d8c08f6cbe1142d6a7968076f5"
+  version "2.0.7"
+  sha256 "da3bcdcc5c9e97441f2b21928fbee96577b0700232bd37941a27b35c97771a3d"
 
   url "https://github.com/codefrydev/PDFCreator-resources/releases/download/v#{version}/FrySharp-#{version}-arm64.dmg"
   name "FrySharp"
